@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 71647d0757b63464a84ed935444ca709
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bolt
+    100002: bolt001
+    100004: bulb
+    100006: Capsule001
+    100008: castorwheel
+    100010: chain
+    100012: chain001
+    100014: chain002
+    100016: Cylinder001
+    100018: Cylinder002
+    100020: Gear
+    100022: Gear001
+    100024: Glasses
+    100026: Glasses 1
+    100028: Glasses001
+    100030: Glasses002
+    100032: //RootNode
+    100034: Line001
+    100036: Line002
+    100038: Line003
+    100040: Line004
+    100042: Line005
+    100044: Line006
+    100046: Line007
+    100048: Line008
+    100050: Line009
+    100052: Mustache
+    100054: pCylinder4
+    100056: polySurface34
+    100058: pPipe5
+    100060: pPipe6
+    100062: pPipe7
+    100064: Sphere002
+    100066: Sphere003
+    100068: Sphere004
+    100070: Sphere005
+    100072: Spring001
+    100074: Spring002
+    100076: Whiskers
+    100078: Whiskers001
+    400000: bolt
+    400002: bolt001
+    400004: bulb
+    400006: Capsule001
+    400008: castorwheel
+    400010: chain
+    400012: chain001
+    400014: chain002
+    400016: Cylinder001
+    400018: Cylinder002
+    400020: Gear
+    400022: Gear001
+    400024: Glasses
+    400026: Glasses 1
+    400028: Glasses001
+    400030: Glasses002
+    400032: //RootNode
+    400034: Line001
+    400036: Line002
+    400038: Line003
+    400040: Line004
+    400042: Line005
+    400044: Line006
+    400046: Line007
+    400048: Line008
+    400050: Line009
+    400052: Mustache
+    400054: pCylinder4
+    400056: polySurface34
+    400058: pPipe5
+    400060: pPipe6
+    400062: pPipe7
+    400064: Sphere002
+    400066: Sphere003
+    400068: Sphere004
+    400070: Sphere005
+    400072: Spring001
+    400074: Spring002
+    400076: Whiskers
+    400078: Whiskers001
+    2100000: JCI_body
+    2100002: JCI_inacap
+    2100004: bulb
+    2100006: lightBulb
+    2100008: 'Material #80 Slot #8'
+    2100010: 'Material #80 Slot #5'
+    2100012: chain
+    2100014: mustache
+    2100016: No Name
+    2100018: frame
+    2100020: glasses
+    2100022: lense
+    2100024: gear
+    2100026: goldArm
+    2100028: fingers
+    2100030: lambert1
+    2100032: metal
+    2100034: wheel
+    2100036: tire
+    2300000: bolt
+    2300002: bolt001
+    2300004: bulb
+    2300006: Capsule001
+    2300008: castorwheel
+    2300010: chain
+    2300012: chain001
+    2300014: chain002
+    2300016: Cylinder001
+    2300018: Cylinder002
+    2300020: Gear
+    2300022: Gear001
+    2300024: Glasses
+    2300026: Glasses 1
+    2300028: Glasses001
+    2300030: Glasses002
+    2300032: Line001
+    2300034: Line002
+    2300036: Line003
+    2300038: Line004
+    2300040: Line005
+    2300042: Line006
+    2300044: Line007
+    2300046: Line008
+    2300048: Line009
+    2300050: Mustache
+    2300052: pCylinder4
+    2300054: polySurface34
+    2300056: pPipe5
+    2300058: pPipe6
+    2300060: pPipe7
+    2300062: Sphere002
+    2300064: Sphere003
+    2300066: Sphere004
+    2300068: Sphere005
+    2300070: Spring001
+    2300072: Spring002
+    2300074: Whiskers
+    2300076: Whiskers001
+    3300000: bolt
+    3300002: bolt001
+    3300004: bulb
+    3300006: Capsule001
+    3300008: castorwheel
+    3300010: chain
+    3300012: chain001
+    3300014: chain002
+    3300016: Cylinder001
+    3300018: Cylinder002
+    3300020: Gear
+    3300022: Gear001
+    3300024: Glasses
+    3300026: Glasses 1
+    3300028: Glasses001
+    3300030: Glasses002
+    3300032: Line001
+    3300034: Line002
+    3300036: Line003
+    3300038: Line004
+    3300040: Line005
+    3300042: Line006
+    3300044: Line007
+    3300046: Line008
+    3300048: Line009
+    3300050: Mustache
+    3300052: pCylinder4
+    3300054: polySurface34
+    3300056: pPipe5
+    3300058: pPipe6
+    3300060: pPipe7
+    3300062: Sphere002
+    3300064: Sphere003
+    3300066: Sphere004
+    3300068: Sphere005
+    3300070: Spring001
+    3300072: Spring002
+    3300074: Whiskers
+    3300076: Whiskers001
+    4300000: Cylinder001
+    4300002: Capsule001
+    4300004: bulb
+    4300006: Cylinder002
+    4300008: Mustache
+    4300010: Whiskers
+    4300012: Whiskers001
+    4300014: Glasses
+    4300016: Glasses
+    4300018: Glasses001
+    4300020: Glasses002
+    4300022: Line001
+    4300024: Gear
+    4300026: Gear001
+    4300028: pPipe5
+    4300030: pPipe6
+    4300032: pPipe7
+    4300034: pCylinder4
+    4300036: polySurface34
+    4300038: bolt
+    4300040: bolt001
+    4300042: Spring001
+    4300044: Spring002
+    4300046: Sphere002
+    4300048: Line002
+    4300050: Sphere003
+    4300052: Line003
+    4300054: Line004
+    4300056: Line005
+    4300058: Sphere004
+    4300060: Sphere005
+    4300062: Line006
+    4300064: Line007
+    4300066: Line008
+    4300068: Line009
+    4300070: castorwheel
+    4300072: chain
+    4300074: chain001
+    4300076: chain002
+    6400000: bolt
+    6400002: bolt001
+    6400004: bulb
+    6400006: Capsule001
+    6400008: castorwheel
+    6400010: chain
+    6400012: chain001
+    6400014: chain002
+    6400016: Cylinder001
+    6400018: Cylinder002
+    6400020: Gear
+    6400022: Gear001
+    6400024: Glasses
+    6400026: Glasses 1
+    6400028: Glasses001
+    6400030: Glasses002
+    6400032: Line001
+    6400034: Line002
+    6400036: Line003
+    6400038: Line004
+    6400040: Line005
+    6400042: Line006
+    6400044: Line007
+    6400046: Line008
+    6400048: Line009
+    6400050: Mustache
+    6400052: pCylinder4
+    6400054: polySurface34
+    6400056: pPipe5
+    6400058: pPipe6
+    6400060: pPipe7
+    6400062: Sphere002
+    6400064: Sphere003
+    6400066: Sphere004
+    6400068: Sphere005
+    6400070: Spring001
+    6400072: Spring002
+    6400074: Whiskers
+    6400076: Whiskers001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JCI_body
+    second: {fileID: 2100000, guid: 85dffedbde3dc284ba3f3d83834f0fe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JCI_inacap
+    second: {fileID: 2100000, guid: 9db84b73c7788684ba4ce11ec2c08077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #80 Slot #5'
+    second: {fileID: 2100000, guid: d1514ba2e14d3794fa8deb9e8ca9dc14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #80 Slot #8'
+    second: {fileID: 2100000, guid: b87b410596cce7049a800b6a08779f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: c629b5a51b38b6942a4e79924eebc8cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bulb
+    second: {fileID: 2100000, guid: f32e256aafa9d9a46bf8eeb58b8c281a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chain
+    second: {fileID: 2100000, guid: ba40660a08551f447af666d0ce91d6eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fingers
+    second: {fileID: 2100000, guid: 121357f11531a3c429c6a2abd56cc326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame
+    second: {fileID: 2100000, guid: 1ece7a3df9ad417498151df2473c2087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gear
+    second: {fileID: 2100000, guid: 22294491cec01ef4680bebc3565c0cc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glasses
+    second: {fileID: 2100000, guid: 688f30053d9ccdf4d9c16ef6211edd45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: goldArm
+    second: {fileID: 2100000, guid: b1e79ed958539764a9f05d71e48b129d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 29adb7a39b390df44b922ea5e5f20b12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lense
+    second: {fileID: 2100000, guid: 64357c80032e1a44aa99e7447808fb10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightBulb
+    second: {fileID: 2100000, guid: 3d0543620ef2d48458ee8b3fe5d3a23b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 1c3cd39b6719f3248ad1696ceda958e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mustache
+    second: {fileID: 2100000, guid: 0d4f8a821bba3494085b0908a09c67ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: 6f27c8a83ffb5c64786058f18a268bec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel
+    second: {fileID: 2100000, guid: 6f27c8a83ffb5c64786058f18a268bec, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

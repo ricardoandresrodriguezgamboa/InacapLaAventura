@@ -1,0 +1,2 @@
+D:\Pablo\UNITY 3D\alpha\Testing Inacap\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache
+D:\Pablo\INACAP\INACAP La Aventura\Alpha 1.3\Alpha 1.3\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache

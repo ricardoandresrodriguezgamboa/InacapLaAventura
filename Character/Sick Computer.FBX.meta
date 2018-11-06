@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 77c4e140422d38d40aa6189050999bbe
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BACKUP.01
+    100002: CDROM.01
+    100004: DATOR.01
+    100006: DISKETT.01
+    100008: DISKETT.02
+    100010: DISKETT.03
+    100012: FOT
+    100014: FRONT.01
+    100016: HDD.01
+    100018: HEADPH.01
+    100020: kbrdwkst
+    100022: keybd_botm
+    100024: keybd_fnct
+    100026: keybd_home
+    100028: keybd_main
+    100030: keybd_pad
+    100032: keybd_spac
+    100034: keybd_top
+    100036: LOGO.01
+    100038: MODE.01
+    100040: ONOFF.01
+    100042: POWER.01
+    100044: RESET.01
+    100046: //RootNode
+    100048: "SK\xC4RM"
+    100050: Text003
+    100052: VOL.01
+    400000: BACKUP.01
+    400002: CDROM.01
+    400004: DATOR.01
+    400006: DISKETT.01
+    400008: DISKETT.02
+    400010: DISKETT.03
+    400012: FOT
+    400014: FRONT.01
+    400016: HDD.01
+    400018: HEADPH.01
+    400020: kbrdwkst
+    400022: keybd_botm
+    400024: keybd_fnct
+    400026: keybd_home
+    400028: keybd_main
+    400030: keybd_pad
+    400032: keybd_spac
+    400034: keybd_top
+    400036: LOGO.01
+    400038: MODE.01
+    400040: ONOFF.01
+    400042: POWER.01
+    400044: RESET.01
+    400046: //RootNode
+    400048: "SK\xC4RM"
+    400050: Text003
+    400052: VOL.01
+    2100000: PLAST
+    2100002: 'Material #1263'
+    2100004: 'Material #1270'
+    2100006: inaBack
+    2100008: 'Material #1264'
+    2100010: LG
+    2100012: sick_Screen
+    2100014: _GLOBAL_
+    2100016: letters
+    2100018: letters2
+    2100020: PLAST1
+    2100022: 'Material #6'
+    2100024: letters3
+    2300000: BACKUP.01
+    2300002: CDROM.01
+    2300004: DATOR.01
+    2300006: DISKETT.02
+    2300008: FOT
+    2300010: FRONT.01
+    2300012: HDD.01
+    2300014: HEADPH.01
+    2300016: keybd_botm
+    2300018: keybd_fnct
+    2300020: keybd_home
+    2300022: keybd_main
+    2300024: keybd_pad
+    2300026: keybd_spac
+    2300028: keybd_top
+    2300030: LOGO.01
+    2300032: MODE.01
+    2300034: ONOFF.01
+    2300036: POWER.01
+    2300038: RESET.01
+    2300040: "SK\xC4RM"
+    2300042: Text003
+    2300044: VOL.01
+    3300000: BACKUP.01
+    3300002: CDROM.01
+    3300004: DATOR.01
+    3300006: DISKETT.02
+    3300008: FOT
+    3300010: FRONT.01
+    3300012: HDD.01
+    3300014: HEADPH.01
+    3300016: keybd_botm
+    3300018: keybd_fnct
+    3300020: keybd_home
+    3300022: keybd_main
+    3300024: keybd_pad
+    3300026: keybd_spac
+    3300028: keybd_top
+    3300030: LOGO.01
+    3300032: MODE.01
+    3300034: ONOFF.01
+    3300036: POWER.01
+    3300038: RESET.01
+    3300040: "SK\xC4RM"
+    3300042: Text003
+    3300044: VOL.01
+    4300000: DISKETT.02
+    4300002: BACKUP.01
+    4300004: CDROM.01
+    4300006: DATOR.01
+    4300008: FOT
+    4300010: FRONT.01
+    4300012: HDD.01
+    4300014: HEADPH.01
+    4300016: LOGO.01
+    4300018: MODE.01
+    4300020: ONOFF.01
+    4300022: POWER.01
+    4300024: RESET.01
+    4300026: "SK\xC4RM"
+    4300028: VOL.01
+    4300030: keybd_top
+    4300032: keybd_fnct
+    4300034: keybd_home
+    4300036: keybd_pad
+    4300038: keybd_main
+    4300040: keybd_botm
+    4300042: keybd_spac
+    4300044: Text003
+    6400000: BACKUP.01
+    6400002: CDROM.01
+    6400004: DATOR.01
+    6400006: DISKETT.02
+    6400008: FOT
+    6400010: FRONT.01
+    6400012: HDD.01
+    6400014: HEADPH.01
+    6400016: keybd_botm
+    6400018: keybd_fnct
+    6400020: keybd_home
+    6400022: keybd_main
+    6400024: keybd_pad
+    6400026: keybd_spac
+    6400028: keybd_top
+    6400030: LOGO.01
+    6400032: MODE.01
+    6400034: ONOFF.01
+    6400036: POWER.01
+    6400038: RESET.01
+    6400040: "SK\xC4RM"
+    6400042: Text003
+    6400044: VOL.01
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LG
+    second: {fileID: 2100000, guid: ce743a238765ce9409c29eae4647cfc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1263'
+    second: {fileID: 2100000, guid: 1d862e29185a0194884884f9d7619bfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1264'
+    second: {fileID: 2100000, guid: 307e89db4e6743f469d4e80492cfbb89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1270'
+    second: {fileID: 2100000, guid: f18621757a79e45428f4986a996a2603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #6'
+    second: {fileID: 2100000, guid: 4ed6658c883b8b046bd97d51390e9278, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PLAST
+    second: {fileID: 2100000, guid: 57595ad9d43027b4c98f69dd3779d379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PLAST1
+    second: {fileID: 2100000, guid: f36d30b88e79c674a9a2ae9c43535132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _GLOBAL_
+    second: {fileID: 2100000, guid: 6243994d50105a54f9efff384f53d8e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inaBack
+    second: {fileID: 2100000, guid: 002f6385af6f06443b4480de3cec89d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters
+    second: {fileID: 2100000, guid: 656a4df9493dc4f4e9324b4bfdacfc55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters2
+    second: {fileID: 2100000, guid: 48838778921e6dd4f80fc60f4bf18e7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: letters3
+    second: {fileID: 2100000, guid: db537d369ae7a6c4a901732816d0af73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sick_Screen
+    second: {fileID: 2100000, guid: b1b36bee79bc0bf40bac343326d7239f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ill
+    second: {fileID: 2800000, guid: 5122d9d7143f6e24db10ddadb37f98e5, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
